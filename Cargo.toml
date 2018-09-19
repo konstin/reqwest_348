@@ -1,0 +1,8 @@
+[package]
+name = "reqwest_348"
+version = "0.1.0"
+authors = ["konstin <konstin@mailbox.org>"]
+
+[dependencies]
+reqwest = { git = "https://github.com/seanmonstar/reqwest", rev = "2698148743c9ab6dcf3ca664d235b458b2cfd426" }
+pretty_env_logger = "0.2.4"
